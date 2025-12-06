@@ -171,6 +171,4 @@ class Shop:
                 window.blit(self.left_arrow_normal,(self.cxx-self.left_arrow_normal.get_width(),
                                                     self.cyy//2-self.left_arrow_normal.get_height()//2))
 
-        # Debug – pokazuje, czy coś zostało kupione
-        print("ret:",ret)
         return ret

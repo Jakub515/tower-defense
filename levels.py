@@ -8,14 +8,14 @@ enemie_data = [
     ['enemies/Slow.png',        1,   80,    2,        40],  #3
     ['enemies/Speedy.png',      5,   40,    1,        28],  #4
 
-    ['enemies/Lightning.png',   4,   2500,   6,        90],  #5
-    ['enemies/Lava.png',        2,   3000,   7,        100], #6
+    ['enemies/Lightning.png',   4,   400,   6,        100],  #5
+    ['enemies/Lava.png',        2,   300,   7,        250], #6
 
-    ['enemies/Guardian.png',    2,   4000,   10,       150], #7
-    ['enemies/Boss1.png',       1,   6000,   15,       200], #8
-    ['enemies/Boss2.png',       1,   8000,   15,       250], #9
-    ['enemies/Boss3.png',       1,   10000,  15,       300], #10
-    ['enemies/Boss4.png',       1,   12000,  15,       350], #11
+    ['enemies/Guardian.png',    2,   600,   10,       550], #7
+    ['enemies/Boss1.png',       1,   7000,   15,       500], #8
+    ['enemies/Boss2.png',       1,   800,   15,       650], #9
+    ['enemies/Boss3.png',       1,   10000,  15,       700], #10
+    ['enemies/Boss4.png',       1,   12000,  15,       850], #11
 
     ['enemies/Hidden_Boss.png', 2,   18000,  20,       500], #12
     ['enemies/Void.png',        4,   45000,  25,       750]  #13
